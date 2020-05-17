@@ -1,0 +1,1108 @@
+1>------ Rebuild All started: Project: pythoncore, Configuration: Debug Win32 ------
+1>Killing any running python_d.exe instances...
+1>Getting build info from git
+1>Building heads/master:69b50ae17d master
+1>_abc.c
+1>_bisectmodule.c
+1>blake2module.c
+1>blake2b_impl.c
+1>blake2s_impl.c
+1>_codecsmodule.c
+1>_collectionsmodule.c
+1>_contextvarsmodule.c
+1>_csv.c
+1>_functoolsmodule.c
+1>_heapqmodule.c
+1>_json.c
+1>_localemodule.c
+1>_lsprof.c
+1>_math.c
+1>_pickle.c
+1>_randommodule.c
+1>sha3module.c
+1>_sre.c
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\_sre.c(457,26): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\_sre.c(471,26): warning C4090: 'function': different 'const' qualifiers
+1>_stat.c
+1>Generating Code...
+1>Compiling...
+1>_struct.c
+1>_weakref.c
+1>arraymodule.c
+1>atexitmodule.c
+1>audioop.c
+1>binascii.c
+1>cmathmodule.c
+1>_datetimemodule.c
+1>errnomodule.c
+1>faulthandler.c
+1>gcmodule.c
+1>hashtable.c
+1>itertoolsmodule.c
+1>main.c
+1>mathmodule.c
+1>md5module.c
+1>mmapmodule.c
+1>_opcode.c
+1>_operator.c
+1>parsermodule.c
+1>Generating Code...
+1>Compiling...
+1>posixmodule.c
+1>rotatingtree.c
+1>sha1module.c
+1>sha256module.c
+1>sha512module.c
+1>signalmodule.c
+1>_statisticsmodule.c
+1>symtablemodule.c
+1>_threadmodule.c
+1>_tracemalloc.c
+1>timemodule.c
+1>xxsubtype.c
+1>_xxsubinterpretersmodule.c
+1>fileio.c
+1>bytesio.c
+1>stringio.c
+1>bufferedio.c
+1>iobase.c
+1>textio.c
+1>winconsoleio.c
+1>Generating Code...
+1>Compiling...
+1>_iomodule.c
+1>_codecs_cn.c
+1>_codecs_hk.c
+1>_codecs_iso2022.c
+1>_codecs_jp.c
+1>_codecs_kr.c
+1>_codecs_tw.c
+1>multibytecodec.c
+1>_winapi.c
+1>abstract.c
+1>accu.c
+1>boolobject.c
+1>bytearrayobject.c
+1>bytes_methods.c
+1>bytesobject.c
+1>call.c
+1>capsule.c
+1>cellobject.c
+1>classobject.c
+1>codeobject.c
+1>Generating Code...
+1>Compiling...
+1>complexobject.c
+1>descrobject.c
+1>dictobject.c
+1>enumobject.c
+1>exceptions.c
+1>fileobject.c
+1>floatobject.c
+1>frameobject.c
+1>funcobject.c
+1>genericaliasobject.c
+1>genobject.c
+1>interpreteridobject.c
+1>iterobject.c
+1>listobject.c
+1>longobject.c
+1>memoryobject.c
+1>methodobject.c
+1>moduleobject.c
+1>namespaceobject.c
+1>object.c
+1>Generating Code...
+1>Compiling...
+1>obmalloc.c
+1>odictobject.c
+1>picklebufobject.c
+1>rangeobject.c
+1>setobject.c
+1>sliceobject.c
+1>structseq.c
+1>tupleobject.c
+1>typeobject.c
+1>unicodectype.c
+1>unicodeobject.c
+1>weakrefobject.c
+1>acceler.c
+1>grammar1.c
+1>listnode.c
+1>myreadline.c
+1>node.c
+1>parser.c
+1>parsetok.c
+1>tokenizer.c
+1>Generating Code...
+1>Compiling...
+1>token.c
+1>invalid_parameter_handler.c
+1>winreg.c
+1>config.c
+1>getpathp.c
+1>msvcrtmodule.c
+1>pyhash.c
+1>_warnings.c
+1>asdl.c
+1>ast.c
+1>ast_opt.c
+1>ast_unparse.c
+1>bltinmodule.c
+1>bootstrap_hash.c
+1>ceval.c
+1>codecs.c
+1>compile.c
+1>context.c
+1>dynamic_annotations.c
+1>dynload_win.c
+1>Generating Code...
+1>Compiling...
+1>errors.c
+1>fileutils.c
+1>formatter_unicode.c
+1>frozen.c
+1>future.c
+1>getargs.c
+1>getcompiler.c
+1>getcopyright.c
+1>getopt.c
+1>getplatform.c
+1>getversion.c
+1>graminit.c
+1>hamt.c
+1>import.c
+1>importdl.c
+1>initconfig.c
+1>marshal.c
+1>modsupport.c
+1>mysnprintf.c
+1>mystrtoul.c
+1>Generating Code...
+1>Compiling...
+1>pathconfig.c
+1>peephole.c
+1>preconfig.c
+1>pyarena.c
+1>pyctype.c
+1>pyfpe.c
+1>pylifecycle.c
+1>pymath.c
+1>pytime.c
+1>pystate.c
+1>pystrcmp.c
+1>pystrhex.c
+1>pystrtod.c
+1>dtoa.c
+1>Python-ast.c
+1>pythonrun.c
+1>structmember.c
+1>symtable.c
+1>sysmodule.c
+1>thread.c
+1>Generating Code...
+1>Compiling...
+1>traceback.c
+1>zlibmodule.c
+1>adler32.c
+1>compress.c
+1>crc32.c
+1>deflate.c
+1>infback.c
+1>inffast.c
+1>inflate.c
+1>inftrees.c
+1>trees.c
+1>uncompr.c
+1>zutil.c
+1>dl_nt.c
+1>Generating Code...
+1>getbuildinfo.c
+1>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python39_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python39_d.exp
+1>pythoncore.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python39_d.dll
+1>Done building project "pythoncore.vcxproj".
+2>------ Rebuild All started: Project: pyshellext, Configuration: Debug Win32 ------
+2>Processing ..\PC\pyshellext.idl
+2>pyshellext.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ocidl.idl
+2>ocidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oleidl.idl
+2>oleidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.idl
+2>objidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\unknwn.idl
+2>unknwn.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.idl
+2>wtypes.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.idl
+2>wtypesbase.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
+2>basetsd.h
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
+2>guiddef.h
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.idl
+2>oaidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\servprov.idl
+2>servprov.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\urlmon.idl
+2>urlmon.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\msxml.idl
+2>msxml.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.acf
+2>oaidl.acf
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ocidl.acf
+2>ocidl.acf
+2>pyshellext.cpp
+2>pyshellext_i.c
+2>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.exp
+2>pyshellext.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.dll
+3>------ Rebuild All started: Project: sqlite3, Configuration: Debug Win32 ------
+3>sqlite3.c
+3>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.exp
+3>sqlite3.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.dll
+4>------ Rebuild All started: Project: python3dll, Configuration: Debug Win32 ------
+4>python3dll.c
+4>Updating python3_d.def
+4>Updating python3stub.def
+4>Rebuilding python3_dstub.lib
+4>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python3_dstub.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python3_dstub.exp
+4>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python3_d.exp
+4>python3dll.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python3_d.dll
+5>------ Rebuild All started: Project: liblzma, Configuration: Debug Win32 ------
+5>tuklib_cpucores.c
+5>tuklib_physmem.c
+5>check.c
+5>crc32_fast.c
+5>crc32_table.c
+5>crc64_fast.c
+5>crc64_table.c
+5>sha256.c
+5>alone_decoder.c
+5>alone_encoder.c
+5>auto_decoder.c
+5>block_buffer_decoder.c
+5>block_buffer_encoder.c
+5>block_decoder.c
+5>block_encoder.c
+5>block_header_decoder.c
+5>block_header_encoder.c
+5>block_util.c
+5>common.c
+5>easy_buffer_encoder.c
+5>Generating Code...
+5>Compiling...
+5>easy_decoder_memusage.c
+5>easy_encoder.c
+5>easy_encoder_memusage.c
+5>easy_preset.c
+5>filter_buffer_decoder.c
+5>filter_buffer_encoder.c
+5>filter_common.c
+5>filter_decoder.c
+5>filter_encoder.c
+5>filter_flags_decoder.c
+5>filter_flags_encoder.c
+5>hardware_cputhreads.c
+5>hardware_physmem.c
+5>index.c
+5>index_decoder.c
+5>index_encoder.c
+5>index_hash.c
+5>outqueue.c
+5>stream_buffer_decoder.c
+5>stream_buffer_encoder.c
+5>Generating Code...
+5>Compiling...
+5>stream_decoder.c
+5>stream_encoder.c
+5>stream_encoder_mt.c
+5>stream_flags_common.c
+5>stream_flags_decoder.c
+5>stream_flags_encoder.c
+5>vli_decoder.c
+5>vli_encoder.c
+5>vli_size.c
+5>delta_common.c
+5>delta_decoder.c
+5>delta_encoder.c
+5>fastpos_table.c
+5>lzma2_decoder.c
+5>lzma2_encoder.c
+5>lzma_decoder.c
+5>lzma_encoder.c
+5>lzma_encoder_optimum_fast.c
+5>lzma_encoder_optimum_normal.c
+5>lzma_encoder_presets.c
+5>Generating Code...
+5>Compiling...
+5>lz_decoder.c
+5>lz_encoder.c
+5>lz_encoder_mf.c
+5>price_table.c
+5>arm.c
+5>armthumb.c
+5>ia64.c
+5>powerpc.c
+5>simple_coder.c
+5>simple_decoder.c
+5>simple_encoder.c
+5>sparc.c
+5>x86.c
+5>Generating Code...
+5>liblzma.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\liblzma_d.lib
+6>------ Skipped Rebuild All: Project: bdist_wininst, Configuration: Debug Win32 ------
+6>Project not selected to build for this solution configuration 
+7>------ Rebuild All started: Project: venvlauncher, Configuration: Debug Win32 ------
+7>launcher.c
+7>venvlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\venvlauncher_d.exe
+8>------ Rebuild All started: Project: venvwlauncher, Configuration: Debug Win32 ------
+8>launcher.c
+8>venvwlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\venvwlauncher_d.exe
+9>------ Skipped Rebuild All: Project: xxlimited, Configuration: Release Win32 ------
+9>Project not selected to build for this solution configuration 
+10>------ Rebuild All started: Project: pylauncher, Configuration: Debug Win32 ------
+10>launcher.c
+10>pylauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\py_d.exe
+11>------ Rebuild All started: Project: pywlauncher, Configuration: Debug Win32 ------
+11>launcher.c
+11>pywlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyw_d.exe
+12>------ Rebuild All started: Project: _socket, Configuration: Debug Win32 ------
+12>socketmodule.c
+12>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.exp
+12>_socket.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.pyd
+13>------ Rebuild All started: Project: _ctypes, Configuration: Debug Win32 ------
+13>_ctypes.c
+13>callbacks.c
+13>callproc.c
+13>cfield.c
+13>malloc_closure.c
+13>stgdict.c
+13>Generating Code...
+13>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.exp
+13>_ctypes.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.pyd
+14>------ Rebuild All started: Project: _elementtree, Configuration: Debug Win32 ------
+14>_elementtree.c
+14>xmlparse.c
+14>xmlrole.c
+14>xmltok.c
+14>Generating Code...
+14>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.exp
+14>_elementtree.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.pyd
+15>------ Rebuild All started: Project: _msi, Configuration: Debug Win32 ------
+15>_msi.c
+15>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.exp
+15>_msi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.pyd
+16>------ Rebuild All started: Project: _decimal, Configuration: Debug Win32 ------
+16>_decimal.c
+16>basearith.c
+16>constants.c
+16>context.c
+16>convolute.c
+16>crt.c
+16>difradix2.c
+16>fnt.c
+16>fourstep.c
+16>io.c
+16>mpalloc.c
+16>mpdecimal.c
+16>numbertheory.c
+16>sixstep.c
+16>transpose.c
+16>Generating Code...
+16>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.exp
+16>_decimal.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.pyd
+17>------ Rebuild All started: Project: _sqlite3, Configuration: Debug Win32 ------
+17>cache.c
+17>connection.c
+17>cursor.c
+17>microprotocols.c
+17>module.c
+17>prepare_protocol.c
+17>row.c
+17>statement.c
+17>util.c
+17>Generating Code...
+17>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.exp
+17>_sqlite3.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.pyd
+18>------ Rebuild All started: Project: _testcapi, Configuration: Debug Win32 ------
+18>_testcapimodule.c
+18>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.exp
+18>_testcapi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.pyd
+19>------ Rebuild All started: Project: _testinternalcapi, Configuration: Debug Win32 ------
+19>_testinternalcapi.c
+19>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.exp
+19>_testinternalcapi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.pyd
+20>------ Rebuild All started: Project: _ssl, Configuration: Debug Win32 ------
+20>_ssl.c
+20>applink.c
+20>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.exp
+20>_ssl.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.pyd
+21>------ Rebuild All started: Project: _testimportmultiple, Configuration: Debug Win32 ------
+21>_testimportmultiple.c
+21>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.exp
+21>_testimportmultiple.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.pyd
+22>------ Rebuild All started: Project: _tkinter, Configuration: Debug Win32 ------
+22>_tkinter.c
+22>tkappinit.c
+22>Generating Code...
+22>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.exp
+22>_tkinter.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.pyd
+23>------ Rebuild All started: Project: _bz2, Configuration: Debug Win32 ------
+23>_bz2module.c
+23>blocksort.c
+23>bzlib.c
+23>compress.c
+23>crctable.c
+23>decompress.c
+23>huffman.c
+23>randtable.c
+23>Generating Code...
+23>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.exp
+23>_bz2.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.pyd
+24>------ Rebuild All started: Project: select, Configuration: Debug Win32 ------
+24>selectmodule.c
+24>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\select_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\select_d.exp
+24>select.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\select_d.pyd
+25>------ Rebuild All started: Project: _lzma, Configuration: Debug Win32 ------
+25>_lzmamodule.c
+25>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.exp
+25>_lzma.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.pyd
+26>------ Rebuild All started: Project: unicodedata, Configuration: Debug Win32 ------
+26>unicodedata.c
+26>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.exp
+26>unicodedata.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.pyd
+27>------ Rebuild All started: Project: pyexpat, Configuration: Debug Win32 ------
+27>pyexpat.c
+27>xmlparse.c
+27>xmlrole.c
+27>xmltok.c
+27>Generating Code...
+27>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.exp
+27>pyexpat.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.pyd
+28>------ Rebuild All started: Project: _hashlib, Configuration: Debug Win32 ------
+28>_hashopenssl.c
+28>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.exp
+28>_hashlib.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.pyd
+29>------ Rebuild All started: Project: _multiprocessing, Configuration: Debug Win32 ------
+29>multiprocessing.c
+29>semaphore.c
+29>Generating Code...
+29>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.exp
+29>_multiprocessing.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.pyd
+30>------ Rebuild All started: Project: pythonw, Configuration: Debug Win32 ------
+30>WinMain.c
+30>pythonw.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pythonw_d.exe
+31>------ Rebuild All started: Project: python, Configuration: Debug Win32 ------
+31>python.c
+31>python.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python_d.exe
+31>C:\WINDOWS\SYSTEM32\ucrtbased.dll is version 10.0.18362.1
+32>------ Rebuild All started: Project: _testbuffer, Configuration: Debug Win32 ------
+32>_testbuffer.c
+32>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.exp
+32>_testbuffer.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.pyd
+33>------ Rebuild All started: Project: winsound, Configuration: Debug Win32 ------
+33>winsound.c
+33>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.exp
+33>winsound.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.pyd
+34>------ Skipped Rebuild All: Project: _freeze_importlib, Configuration: Debug Win32 ------
+34>Project not selected to build for this solution configuration 
+35>------ Rebuild All started: Project: _overlapped, Configuration: Debug Win32 ------
+35>overlapped.c
+35>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.exp
+35>_overlapped.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.pyd
+36>------ Rebuild All started: Project: _testembed, Configuration: Debug Win32 ------
+36>_testembed.c
+36>_testembed.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testembed_d.exe
+37>------ Rebuild All started: Project: _testmultiphase, Configuration: Debug Win32 ------
+37>_testmultiphase.c
+37>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.exp
+37>_testmultiphase.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.pyd
+38>------ Rebuild All started: Project: _testconsole, Configuration: Debug Win32 ------
+38>_testconsole.c
+38>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.exp
+38>_testconsole.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.pyd
+39>------ Rebuild All started: Project: _asyncio, Configuration: Debug Win32 ------
+39>_asynciomodule.c
+39>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.exp
+39>_asyncio.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.pyd
+40>------ Rebuild All started: Project: _queue, Configuration: Debug Win32 ------
+40>_queuemodule.c
+40>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.exp
+40>_queue.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.pyd
+41>------ Rebuild All started: Project: _ctypes_test, Configuration: Debug Win32 ------
+41>_ctypes_test.c
+41>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.exp
+41>_ctypes_test.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.pyd
+42>------ Rebuild All started: Project: python_uwp, Configuration: Debug Win32 ------
+42>python_uwp.cpp
+42>python_uwp.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python_uwp_d.exe
+43>------ Rebuild All started: Project: pythonw_uwp, Configuration: Debug Win32 ------
+43>python_uwp.cpp
+43>pythonw_uwp.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pythonw_uwp_d.exe
+========== Rebuild All: 40 succeeded, 0 failed, 3 skipped ==========
+1>------ Rebuild All started: Project: pythoncore, Configuration: Debug Win32 ------
+1>Killing any running python_d.exe instances...
+1>Getting build info from git
+1>Building heads/master:69b50ae17d master
+1>_abc.c
+1>_bisectmodule.c
+1>blake2module.c
+1>blake2b_impl.c
+1>blake2s_impl.c
+1>_codecsmodule.c
+1>_collectionsmodule.c
+1>_contextvarsmodule.c
+1>_csv.c
+1>_functoolsmodule.c
+1>_heapqmodule.c
+1>_json.c
+1>_localemodule.c
+1>_lsprof.c
+1>_math.c
+1>_pickle.c
+1>_randommodule.c
+1>sha3module.c
+1>_sre.c
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(822,21): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1058,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1064,17): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\sre_lib.h(1134,13): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\_sre.c(457,26): warning C4090: 'function': different 'const' qualifiers
+1>D:\Spravce\repos\cpython\Modules\_sre.c(471,26): warning C4090: 'function': different 'const' qualifiers
+1>_stat.c
+1>Generating Code...
+1>Compiling...
+1>_struct.c
+1>_weakref.c
+1>arraymodule.c
+1>atexitmodule.c
+1>audioop.c
+1>binascii.c
+1>cmathmodule.c
+1>_datetimemodule.c
+1>errnomodule.c
+1>faulthandler.c
+1>gcmodule.c
+1>hashtable.c
+1>itertoolsmodule.c
+1>main.c
+1>mathmodule.c
+1>md5module.c
+1>mmapmodule.c
+1>_opcode.c
+1>_operator.c
+1>parsermodule.c
+1>Generating Code...
+1>Compiling...
+1>posixmodule.c
+1>rotatingtree.c
+1>sha1module.c
+1>sha256module.c
+1>sha512module.c
+1>signalmodule.c
+1>_statisticsmodule.c
+1>symtablemodule.c
+1>_threadmodule.c
+1>_tracemalloc.c
+1>timemodule.c
+1>xxsubtype.c
+1>_xxsubinterpretersmodule.c
+1>fileio.c
+1>bytesio.c
+1>stringio.c
+1>bufferedio.c
+1>iobase.c
+1>textio.c
+1>winconsoleio.c
+1>Generating Code...
+1>Compiling...
+1>_iomodule.c
+1>_codecs_cn.c
+1>_codecs_hk.c
+1>_codecs_iso2022.c
+1>_codecs_jp.c
+1>_codecs_kr.c
+1>_codecs_tw.c
+1>multibytecodec.c
+1>_winapi.c
+1>abstract.c
+1>accu.c
+1>boolobject.c
+1>bytearrayobject.c
+1>bytes_methods.c
+1>bytesobject.c
+1>call.c
+1>capsule.c
+1>cellobject.c
+1>classobject.c
+1>codeobject.c
+1>Generating Code...
+1>Compiling...
+1>complexobject.c
+1>descrobject.c
+1>dictobject.c
+1>enumobject.c
+1>exceptions.c
+1>fileobject.c
+1>floatobject.c
+1>frameobject.c
+1>funcobject.c
+1>genericaliasobject.c
+1>genobject.c
+1>interpreteridobject.c
+1>iterobject.c
+1>listobject.c
+1>longobject.c
+1>memoryobject.c
+1>methodobject.c
+1>moduleobject.c
+1>namespaceobject.c
+1>object.c
+1>Generating Code...
+1>Compiling...
+1>obmalloc.c
+1>odictobject.c
+1>picklebufobject.c
+1>rangeobject.c
+1>setobject.c
+1>sliceobject.c
+1>structseq.c
+1>tupleobject.c
+1>typeobject.c
+1>unicodectype.c
+1>unicodeobject.c
+1>weakrefobject.c
+1>acceler.c
+1>grammar1.c
+1>listnode.c
+1>myreadline.c
+1>node.c
+1>parser.c
+1>parsetok.c
+1>tokenizer.c
+1>Generating Code...
+1>Compiling...
+1>token.c
+1>invalid_parameter_handler.c
+1>winreg.c
+1>config.c
+1>getpathp.c
+1>msvcrtmodule.c
+1>pyhash.c
+1>_warnings.c
+1>asdl.c
+1>ast.c
+1>ast_opt.c
+1>ast_unparse.c
+1>bltinmodule.c
+1>bootstrap_hash.c
+1>ceval.c
+1>codecs.c
+1>compile.c
+1>context.c
+1>dynamic_annotations.c
+1>dynload_win.c
+1>Generating Code...
+1>Compiling...
+1>errors.c
+1>fileutils.c
+1>formatter_unicode.c
+1>frozen.c
+1>future.c
+1>getargs.c
+1>getcompiler.c
+1>getcopyright.c
+1>getopt.c
+1>getplatform.c
+1>getversion.c
+1>graminit.c
+1>hamt.c
+1>import.c
+1>importdl.c
+1>initconfig.c
+1>marshal.c
+1>modsupport.c
+1>mysnprintf.c
+1>mystrtoul.c
+1>Generating Code...
+1>Compiling...
+1>pathconfig.c
+1>peephole.c
+1>preconfig.c
+1>pyarena.c
+1>pyctype.c
+1>pyfpe.c
+1>pylifecycle.c
+1>pymath.c
+1>pytime.c
+1>pystate.c
+1>pystrcmp.c
+1>pystrhex.c
+1>pystrtod.c
+1>dtoa.c
+1>Python-ast.c
+1>pythonrun.c
+1>structmember.c
+1>symtable.c
+1>sysmodule.c
+1>thread.c
+1>Generating Code...
+1>Compiling...
+1>traceback.c
+1>zlibmodule.c
+1>adler32.c
+1>compress.c
+1>crc32.c
+1>deflate.c
+1>infback.c
+1>inffast.c
+1>inflate.c
+1>inftrees.c
+1>trees.c
+1>uncompr.c
+1>zutil.c
+1>dl_nt.c
+1>Generating Code...
+1>getbuildinfo.c
+1>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python39_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python39_d.exp
+1>pythoncore.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python39_d.dll
+1>Done building project "pythoncore.vcxproj".
+2>------ Rebuild All started: Project: pyshellext, Configuration: Debug Win32 ------
+2>Processing ..\PC\pyshellext.idl
+2>pyshellext.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ocidl.idl
+2>ocidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oleidl.idl
+2>oleidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.idl
+2>objidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\unknwn.idl
+2>unknwn.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.idl
+2>wtypes.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.idl
+2>wtypesbase.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
+2>basetsd.h
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
+2>guiddef.h
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.idl
+2>oaidl.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\servprov.idl
+2>servprov.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\urlmon.idl
+2>urlmon.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\msxml.idl
+2>msxml.idl
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.acf
+2>oaidl.acf
+2>Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ocidl.acf
+2>ocidl.acf
+2>pyshellext.cpp
+2>pyshellext_i.c
+2>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.exp
+2>pyshellext.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyshellext_d.dll
+3>------ Rebuild All started: Project: sqlite3, Configuration: Debug Win32 ------
+3>sqlite3.c
+3>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.exp
+3>sqlite3.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\sqlite3_d.dll
+4>------ Rebuild All started: Project: python3dll, Configuration: Debug Win32 ------
+4>python3dll.c
+4>Updating python3_d.def
+4>Updating python3stub.def
+4>Rebuilding python3_dstub.lib
+4>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python3_dstub.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python3_dstub.exp
+4>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\python3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\python3_d.exp
+4>python3dll.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python3_d.dll
+5>------ Rebuild All started: Project: liblzma, Configuration: Debug Win32 ------
+5>tuklib_cpucores.c
+5>tuklib_physmem.c
+5>check.c
+5>crc32_fast.c
+5>crc32_table.c
+5>crc64_fast.c
+5>crc64_table.c
+5>sha256.c
+5>alone_decoder.c
+5>alone_encoder.c
+5>auto_decoder.c
+5>block_buffer_decoder.c
+5>block_buffer_encoder.c
+5>block_decoder.c
+5>block_encoder.c
+5>block_header_decoder.c
+5>block_header_encoder.c
+5>block_util.c
+5>common.c
+5>easy_buffer_encoder.c
+5>Generating Code...
+5>Compiling...
+5>easy_decoder_memusage.c
+5>easy_encoder.c
+5>easy_encoder_memusage.c
+5>easy_preset.c
+5>filter_buffer_decoder.c
+5>filter_buffer_encoder.c
+5>filter_common.c
+5>filter_decoder.c
+5>filter_encoder.c
+5>filter_flags_decoder.c
+5>filter_flags_encoder.c
+5>hardware_cputhreads.c
+5>hardware_physmem.c
+5>index.c
+5>index_decoder.c
+5>index_encoder.c
+5>index_hash.c
+5>outqueue.c
+5>stream_buffer_decoder.c
+5>stream_buffer_encoder.c
+5>Generating Code...
+5>Compiling...
+5>stream_decoder.c
+5>stream_encoder.c
+5>stream_encoder_mt.c
+5>stream_flags_common.c
+5>stream_flags_decoder.c
+5>stream_flags_encoder.c
+5>vli_decoder.c
+5>vli_encoder.c
+5>vli_size.c
+5>delta_common.c
+5>delta_decoder.c
+5>delta_encoder.c
+5>fastpos_table.c
+5>lzma2_decoder.c
+5>lzma2_encoder.c
+5>lzma_decoder.c
+5>lzma_encoder.c
+5>lzma_encoder_optimum_fast.c
+5>lzma_encoder_optimum_normal.c
+5>lzma_encoder_presets.c
+5>Generating Code...
+5>Compiling...
+5>lz_decoder.c
+5>lz_encoder.c
+5>lz_encoder_mf.c
+5>price_table.c
+5>arm.c
+5>armthumb.c
+5>ia64.c
+5>powerpc.c
+5>simple_coder.c
+5>simple_decoder.c
+5>simple_encoder.c
+5>sparc.c
+5>x86.c
+5>Generating Code...
+5>liblzma.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\liblzma_d.lib
+6>------ Skipped Rebuild All: Project: bdist_wininst, Configuration: Debug Win32 ------
+6>Project not selected to build for this solution configuration 
+7>------ Rebuild All started: Project: venvlauncher, Configuration: Debug Win32 ------
+7>launcher.c
+7>venvlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\venvlauncher_d.exe
+8>------ Rebuild All started: Project: venvwlauncher, Configuration: Debug Win32 ------
+8>launcher.c
+8>venvwlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\venvwlauncher_d.exe
+9>------ Skipped Rebuild All: Project: xxlimited, Configuration: Release Win32 ------
+9>Project not selected to build for this solution configuration 
+10>------ Rebuild All started: Project: pylauncher, Configuration: Debug Win32 ------
+10>launcher.c
+10>pylauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\py_d.exe
+11>------ Rebuild All started: Project: pywlauncher, Configuration: Debug Win32 ------
+11>launcher.c
+11>pywlauncher.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyw_d.exe
+12>------ Rebuild All started: Project: _socket, Configuration: Debug Win32 ------
+12>socketmodule.c
+12>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.exp
+12>_socket.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_socket_d.pyd
+13>------ Rebuild All started: Project: _ctypes, Configuration: Debug Win32 ------
+13>_ctypes.c
+13>callbacks.c
+13>callproc.c
+13>cfield.c
+13>malloc_closure.c
+13>stgdict.c
+13>Generating Code...
+13>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.exp
+13>_ctypes.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_d.pyd
+14>------ Rebuild All started: Project: _elementtree, Configuration: Debug Win32 ------
+14>_elementtree.c
+14>xmlparse.c
+14>xmlrole.c
+14>xmltok.c
+14>Generating Code...
+14>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.exp
+14>_elementtree.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_elementtree_d.pyd
+15>------ Rebuild All started: Project: _msi, Configuration: Debug Win32 ------
+15>_msi.c
+15>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.exp
+15>_msi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_msi_d.pyd
+16>------ Rebuild All started: Project: _decimal, Configuration: Debug Win32 ------
+16>_decimal.c
+16>basearith.c
+16>constants.c
+16>context.c
+16>convolute.c
+16>crt.c
+16>difradix2.c
+16>fnt.c
+16>fourstep.c
+16>io.c
+16>mpalloc.c
+16>mpdecimal.c
+16>numbertheory.c
+16>sixstep.c
+16>transpose.c
+16>Generating Code...
+16>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.exp
+16>_decimal.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_decimal_d.pyd
+17>------ Rebuild All started: Project: _sqlite3, Configuration: Debug Win32 ------
+17>cache.c
+17>connection.c
+17>cursor.c
+17>microprotocols.c
+17>module.c
+17>prepare_protocol.c
+17>row.c
+17>statement.c
+17>util.c
+17>Generating Code...
+17>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.exp
+17>_sqlite3.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_sqlite3_d.pyd
+18>------ Rebuild All started: Project: _testcapi, Configuration: Debug Win32 ------
+18>_testcapimodule.c
+18>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.exp
+18>_testcapi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testcapi_d.pyd
+19>------ Rebuild All started: Project: _testinternalcapi, Configuration: Debug Win32 ------
+19>_testinternalcapi.c
+19>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.exp
+19>_testinternalcapi.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testinternalcapi_d.pyd
+20>------ Rebuild All started: Project: _ssl, Configuration: Debug Win32 ------
+20>_ssl.c
+20>applink.c
+20>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.exp
+20>_ssl.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ssl_d.pyd
+21>------ Rebuild All started: Project: _testimportmultiple, Configuration: Debug Win32 ------
+21>_testimportmultiple.c
+21>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.exp
+21>_testimportmultiple.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testimportmultiple_d.pyd
+22>------ Rebuild All started: Project: _tkinter, Configuration: Debug Win32 ------
+22>_tkinter.c
+22>tkappinit.c
+22>Generating Code...
+22>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.exp
+22>_tkinter.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_tkinter_d.pyd
+23>------ Rebuild All started: Project: _bz2, Configuration: Debug Win32 ------
+23>_bz2module.c
+23>blocksort.c
+23>bzlib.c
+23>compress.c
+23>crctable.c
+23>decompress.c
+23>huffman.c
+23>randtable.c
+23>Generating Code...
+23>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.exp
+23>_bz2.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_bz2_d.pyd
+24>------ Rebuild All started: Project: select, Configuration: Debug Win32 ------
+24>selectmodule.c
+24>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\select_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\select_d.exp
+24>select.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\select_d.pyd
+25>------ Rebuild All started: Project: _lzma, Configuration: Debug Win32 ------
+25>_lzmamodule.c
+25>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.exp
+25>_lzma.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_lzma_d.pyd
+26>------ Rebuild All started: Project: unicodedata, Configuration: Debug Win32 ------
+26>unicodedata.c
+26>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.exp
+26>unicodedata.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\unicodedata_d.pyd
+27>------ Rebuild All started: Project: pyexpat, Configuration: Debug Win32 ------
+27>pyexpat.c
+27>xmlparse.c
+27>xmlrole.c
+27>xmltok.c
+27>Generating Code...
+27>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.exp
+27>pyexpat.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pyexpat_d.pyd
+28>------ Rebuild All started: Project: _hashlib, Configuration: Debug Win32 ------
+28>_hashopenssl.c
+28>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.exp
+28>_hashlib.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_hashlib_d.pyd
+29>------ Rebuild All started: Project: _multiprocessing, Configuration: Debug Win32 ------
+29>multiprocessing.c
+29>semaphore.c
+29>Generating Code...
+29>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.exp
+29>_multiprocessing.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_multiprocessing_d.pyd
+30>------ Rebuild All started: Project: pythonw, Configuration: Debug Win32 ------
+30>WinMain.c
+30>pythonw.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pythonw_d.exe
+31>------ Rebuild All started: Project: python, Configuration: Debug Win32 ------
+31>python.c
+31>python.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python_d.exe
+31>C:\WINDOWS\SYSTEM32\ucrtbased.dll is version 10.0.18362.1
+32>------ Rebuild All started: Project: _testbuffer, Configuration: Debug Win32 ------
+32>_testbuffer.c
+32>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.exp
+32>_testbuffer.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testbuffer_d.pyd
+33>------ Rebuild All started: Project: winsound, Configuration: Debug Win32 ------
+33>winsound.c
+33>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.exp
+33>winsound.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\winsound_d.pyd
+34>------ Skipped Rebuild All: Project: _freeze_importlib, Configuration: Debug Win32 ------
+34>Project not selected to build for this solution configuration 
+35>------ Rebuild All started: Project: _overlapped, Configuration: Debug Win32 ------
+35>overlapped.c
+35>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.exp
+35>_overlapped.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_overlapped_d.pyd
+36>------ Rebuild All started: Project: _testembed, Configuration: Debug Win32 ------
+36>_testembed.c
+36>_testembed.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testembed_d.exe
+37>------ Rebuild All started: Project: _testmultiphase, Configuration: Debug Win32 ------
+37>_testmultiphase.c
+37>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.exp
+37>_testmultiphase.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testmultiphase_d.pyd
+38>------ Rebuild All started: Project: _testconsole, Configuration: Debug Win32 ------
+38>_testconsole.c
+38>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.exp
+38>_testconsole.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_testconsole_d.pyd
+39>------ Rebuild All started: Project: _asyncio, Configuration: Debug Win32 ------
+39>_asynciomodule.c
+39>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.exp
+39>_asyncio.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_asyncio_d.pyd
+40>------ Rebuild All started: Project: _queue, Configuration: Debug Win32 ------
+40>_queuemodule.c
+40>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.exp
+40>_queue.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_queue_d.pyd
+41>------ Rebuild All started: Project: _ctypes_test, Configuration: Debug Win32 ------
+41>_ctypes_test.c
+41>   Creating library D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.lib and object D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.exp
+41>_ctypes_test.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\_ctypes_test_d.pyd
+42>------ Rebuild All started: Project: python_uwp, Configuration: Debug Win32 ------
+42>python_uwp.cpp
+42>python_uwp.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\python_uwp_d.exe
+43>------ Rebuild All started: Project: pythonw_uwp, Configuration: Debug Win32 ------
+43>python_uwp.cpp
+43>pythonw_uwp.vcxproj -> D:\Spravce\repos\cpython\PCbuild\win32\pythonw_uwp_d.exe
+========== Rebuild All: 40 succeeded, 0 failed, 3 skipped ==========
